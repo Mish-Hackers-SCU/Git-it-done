@@ -1,5 +1,6 @@
 # Git-it-done 🚀
-A Git & GitHub cheatsheet and learning hub to kickstart your journey and start repo'ing your projects! :)
+
+![msh_hackers_img](msh_icon.png)
 
 ---
 
