@@ -1,8 +1,9 @@
 # Git-it-done 🚀
 
-![msh_hackers_img](msh_icon.png)
+[![msh_hackers_img](mshgit.jpeg)](https://drive.google.com/file/d/1C5530uGBR1P8IfJoKM7ShpShb6qBTnux/view)
 
-[Watch our Session Recording here ⬅️](https://drive.google.com/file/d/1C5530uGBR1P8IfJoKM7ShpShb6qBTnux/view)
+
+___Click on the image above to watch our recorded session ⬆️ 🍿___
 
 ---
 
