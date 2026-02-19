@@ -2,19 +2,21 @@
 
 ![msh_hackers_img](msh_icon.png)
 
+[Watch our Session Recording here ⬅️](https://drive.google.com/file/d/1C5530uGBR1P8IfJoKM7ShpShb6qBTnux/view)
+
 ---
 
 ## 📚 Table of Contents
-1. [Setup & Configuration](#-setup--configuration)
+1. [Setup & Configuration](#%EF%B8%8F-setup--configuration)
 2. [Creating Repositories](#-creating-repositories)
 3. [Staging & Committing](#-staging--committing)
 4. [Branching](#-branching)
 5. [Merging & Rebasing](#-merging--rebasing)
 6. [Remote Repositories](#-remote-repositories)
 7. [Fetching, Pulling & Pushing](#-fetching-pulling--pushing)
-8. [Undoing Changes](#-undoing-changes)
-9. [Stashing](#-stashing)
-10. [Tagging](#-tagging)
+8. [Undoing Changes](#%EF%B8%8F-undoing-changes)
+9. [Stashing](#%EF%B8%8F-stashing)
+10. [Tagging](#%EF%B8%8F-tagging)
 11. [Inspecting & Logging](#-inspecting--logging)
 12. [GitHub Learning Resources](#-github-learning-resources)
 
